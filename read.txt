@@ -1,4 +1,3 @@
-you are not
-hahahahhahaha
-Zai jia yi hang
-Git track change
+Git is a system.
+Git is free
+We has distributed it?
