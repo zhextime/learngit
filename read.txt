@@ -1,4 +1,5 @@
 Git is a system.
 Git is free
 We has distributed it?
-Ctreat a new branch is quick & simple.
+Creat a new branch is quick and simple.
+
