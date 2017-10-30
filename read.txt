@@ -1,5 +1,5 @@
 Git is a system.
-Git is free
+Git is a free
 We has distributed it?
 Creat a new branch is quick and simple. Add merge
 
